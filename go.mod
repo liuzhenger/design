@@ -1,4 +1,4 @@
-module github.com/liuzhenger/design
+module github.com/skeletongo/design
 
 go 1.12
 
